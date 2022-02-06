@@ -1,0 +1,2 @@
+# Ignore Solidworks temporary files (annoying to commit when SW is open)
+~$*.*
